@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Horses Project
+title:  Spider Project
 date:   2021-04-13 15:01:35 +0300
-image:  '/images/horse_hero.jpg'
+image:  '/images/spider.jpg'
 tags:   Lifestyle
 ---
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
