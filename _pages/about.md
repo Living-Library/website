@@ -11,7 +11,7 @@ Our mission is to develop truthful digital recreations of animals for the purpos
 
 ### **Core Values**
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93cd1f35-510c-4b06-acf2-b36c7e2b2090/Screen_Shot_2020-12-16_at_12.22.20_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93cd1f35-510c-4b06-acf2-b36c7e2b2090/Screen_Shot_2020-12-16_at_12.22.20_AM.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93cd1f35-510c-4b06-acf2-b36c7e2b2090/Screen_Shot_2020-12-16_at_12.22.20_AM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/93cd1f35-510c-4b06-acf2-b36c7e2b2090/Screen_Shot_2020-12-16_at_12.22.20_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210423%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210423T181633Z&X-Amz-Expires=86400&X-Amz-Signature=bc604c30785cd961866fc5f13bab4aeeb1c857ee817c903831ae29648a796a8d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2020-12-16_at_12.22.20_AM.png%22)
 
 - *Animal-centric* - At our core, we are an animal-centric organization that looks to highlight the beauty of the nature world with as little filtering as possible. Nature is our inspiration and everything we do stems from our passion for recognizing these beautiful creatures.
 - *Process Oriented* - Unlike traditional studios, we focus on the process of recreating life, rather than the end result. We believe that our work should mirror the evolving condition of the natural world. We enact this value through open-access sharing about our projects and by constantly revisiting our digital models as we seek to enrich the truthfulness of our work.
