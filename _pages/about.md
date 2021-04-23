@@ -5,26 +5,15 @@ permalink: /about/
 image: '/images/60.jpg'
 ---
 
-Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+### **Mission Statement**
 
-![Time to think]({{site.baseurl}}/images/31.jpg)
-*Time to think*
+Our mission is to develop truthful digital recreations of animals for the purpose of revealing the story of life on earth and to further the mission of conservation, artistry, and science through open and intentional outreach.
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
+### **Core Values**
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/29.jpg">
-    <img src="/images/30.jpg">
-    <img src="/images/31.jpg">
-  </div>
-</div>
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93cd1f35-510c-4b06-acf2-b36c7e2b2090/Screen_Shot_2020-12-16_at_12.22.20_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93cd1f35-510c-4b06-acf2-b36c7e2b2090/Screen_Shot_2020-12-16_at_12.22.20_AM.png)
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
-
-<p><iframe src="https://www.youtube.com/embed/ZSPkcpGmflE" frameborder="0" allowfullscreen></iframe></p>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion.
-
-Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray.
+- *Animal-centric* - At our core, we are an animal-centric organization that looks to highlight the beauty of the nature world with as little filtering as possible. Nature is our inspiration and everything we do stems from our passion for recognizing these beautiful creatures.
+- *Process Oriented* - Unlike traditional studios, we focus on the process of recreating life, rather than the end result. We believe that our work should mirror the evolving condition of the natural world. We enact this value through open-access sharing about our projects and by constantly revisiting our digital models as we seek to enrich the truthfulness of our work.
+- *Conservation* - In a world where digital recreations attract attention often at the expense of their real-world counterparts, we want to transform our relationship with nature into a partnership. Instead of seeking to replace nature with our work we want to emphasize the irreplaceable aspects of nature in our digital recreations. We want to promote conservation through awareness, inspiration, and data collection.
+- *Scientific Accuracy* - From the beginning, our team has strived to merge scientific accuracy with the artistic interpretation that is inherent to digital creations. We believe truthful representation is vital to protecting the image of the animals we represent. While not a research organization, the NPO will always hold the natural world as a benchmark for our work and utilize this as a way to create pioneering value to our organization.
