@@ -1,20 +1,20 @@
 #-------------------------------
 # General Site Settings
-title: The Living Library
+title: Johnson Martin
 logo: # You can add own logo. For example '/images/logo.png'.
-description:
+description: 3d Artist
 baseurl: "/website" # The subpath of your site, e.g. /blog
 url: "https://living-library.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Living Library Admin
+  name: Johnson Martin
   avatar: '/images/15.jpg'
 
 # Hero Settings
 hero:
-  title: The Living Library Project
-  description: Developing truthful recreations of life on earth.
+  title:
+  description:
   image: '/images/hero.jpg'
 
 # Contact Settings
