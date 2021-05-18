@@ -1,10 +1,7 @@
 ---
 classes: single
 excerpt: "Weidman and university structures."
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: https://source.unsplash.com/ewGMqs2tmJI/1600x900
+image: https://source.unsplash.com/ewGMqs2tmJI/1600x900
 ---
 
 Sitting in a university assembly on a Monday morning, feeling the creaking tension of the auditorium chairs, I was taken aback from my musing by one of the speaker’s many tangents. The tangent was about the difficulty the administration had in understanding why the student body deviates from the averages on many important social issues. The speaker noted that they and their colleagues didn’t know why the deviations were occurring or what motivators contributed to the differences in the student body in comparison to other major universities. This comment brought me to question, what role do undergraduate programs play in the socialization of students and why are the results of this socialization so varied across different campuses across the United States, even among standardized public universities?
