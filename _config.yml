@@ -4,12 +4,12 @@ title: Johnson Martin
 logo: # You can add own logo. For example '/images/logo.png'.
 description: 3d Artist
 baseurl: "/website" # The subpath of your site, e.g. /blog
-url: "https://living-library.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://johnsonlm-website.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
   name: Johnson Martin
-  avatar: '/images/15.jpg'
+  avatar: '/images/avatar.jpg'
 
 # Hero Settings
 hero:
@@ -19,7 +19,7 @@ hero:
 
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+  email: johnson@johnsonlm.com # Add your email for contant form
   description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
 
 # Footer section
