@@ -1,10 +1,7 @@
 ---
 classes: single
 excerpt: "third places & social dynamics."
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: https://source.unsplash.com/d1ngW7SNehM/1600x900
+image: https://source.unsplash.com/d1ngW7SNehM/1600x900
 ---
 
 The other night, I was at a local coffee shop searching for a new environment in hopes of replenishing my focus and work ethic (Grand aspirations, huh?). Sitting in the shop, with my laptop out and a cup of coffee not far from my hand, I mused on the interactions that coffee shops facilitate. Why has such a simple thing, a shop where you can buy coffee, become an international symbol of productivity? Coffeehouses have historical roots as social gathering points, not too dissimilar to that of bars or taverns, yet now we associate that atmosphere of coffee shops with MacBooks and earbuds, rather than just places to gather with friends. What's caused this change in dynamics and are there any remnants of the social gathering places that these shops once were?
