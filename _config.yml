@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Johnson Martin
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo-sample.png'
 description: 3d Artist
 baseurl: "/website" # The subpath of your site, e.g. /blog
 url: "https://johnsonlm-website.github.io" # The base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "https://johnsonlm-website.github.io" # The base hostname & protocol for yo
 # Author Settings
 author:
   name: Life project
-  avatar: '/images/logo-sample.png'
+  avatar:
 
 # Hero Settings
 hero:
