@@ -1,7 +1,7 @@
 ---
 classes: single
 excerpt: Shark Photogrammetry Test
-image: /website/images/skark0tests.png
+image: /website/images/shark-tests.png
 ---
 
 Shark photogrammetry reconstruction tests from GoPro footage.
