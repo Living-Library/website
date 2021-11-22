@@ -9,7 +9,7 @@ url: "https://johnsonlm-website.github.io" # The base hostname & protocol for yo
 # Author Settings
 author:
   name: Life project
-  avatar: '/images/avatar.jpg'
+  avatar: '/images/logo-sample.png'
 
 # Hero Settings
 hero:
