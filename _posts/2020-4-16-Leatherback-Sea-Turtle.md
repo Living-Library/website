@@ -1,7 +1,7 @@
 ---
 classes: single
 excerpt: "Weidman and university structures."
-image: website/images/turtle.jpg
+image: /website/images/turtle.jpg
 ---
 
 Recently in partnership with Digital Life 3D, I created this model of a juvenile sea turtle based on images of a living specimen. The model was sculpted, textured, baked, and animated in Blender for use in real-time render engines. The images above were rendered in Eevee.
