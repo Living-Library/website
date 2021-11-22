@@ -9,8 +9,15 @@ Our mission is to develop truthful digital recreations of animals for the purpos
 
 ### **Partners**
 
-!['Sketchfab  logo'](/images/sketchfab-logo.png)
-!['Sketchfab  logo'](/images/digital-life-logo.png)
+!['Sketchfab  logo'](/website/images/sketchfab-logo.png)
+!['Sketchfab  logo'](/website/images/digital-life-logo.png)
+
+<div class="gallery-box">
+  <div class="gallery">
+    !['Sketchfab  logo'](/website/images/sketchfab-logo.png)
+    !['Sketchfab  logo'](/website/images/digital-life-logo.png)
+  </div>
+</div>
 
 ### Looking to become a partner?
 

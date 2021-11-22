@@ -8,13 +8,13 @@ url: "https://johnsonlm-website.github.io" # The base hostname & protocol for yo
 
 # Author Settings
 author:
-  name: Johnson Martin
+  name: Life project
   avatar: '/images/avatar.jpg'
 
 # Hero Settings
 hero:
-  title: Documenting life on earth for sustainable science.
-  description:
+  title:
+  description: Documenting life on earth for sustainable science.
   image: '/images/hero.jpg'
 
 # Contact Settings
