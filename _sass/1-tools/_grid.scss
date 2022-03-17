@@ -34,8 +34,8 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
 }
 
 .col {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 [class^="col-"] {
@@ -116,7 +116,7 @@ $mq: ( $mobile:$columns, $tablet:$columns, $desktop:$columns );
       .col-m-#{$i} {
         width: percentage( $i / $columns );
       }
-    }  
+    }
 
     @for $i from 0 through $columns {
       .push-m-#{$i} {

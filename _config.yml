@@ -1,26 +1,26 @@
 #-------------------------------
 # General Site Settings
-title: Johnson Martin
-logo: '/images/logo-sample.png'
-description: 3d Artist
+title: Living Library 3D
+logo:
+description: Documenting life on earth for sustainable science.
 baseurl: "/website" # The subpath of your site, e.g. /blog
 url: "https://johnsonlm-website.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Life project
+  name: Living Library 3D
   avatar:
 
 # Hero Settings
 hero:
-  title:
+  title: Welcome to Living Library 3D
   description: Documenting life on earth for sustainable science.
   image: '/images/hero.jpg'
 
 # Contact Settings
 contact:
   email: johnson@johnsonlm.com # Add your email for contant form
-  description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
+  description: Contact us here!
 
 # Footer section
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
